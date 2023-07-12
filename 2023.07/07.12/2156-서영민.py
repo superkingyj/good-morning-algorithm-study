@@ -1,6 +1,7 @@
 n = int(input())
 wine = [int(input()) for _ in range(n)]
 
+print(wine)
 dp = [0]*n
 
 dp[0] = wine[0]
