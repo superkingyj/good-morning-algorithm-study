@@ -1,10 +1,5 @@
-import sys
-
-input = sys.stdin.readline
-
-
 n = int(input())
-rgbdp = []  #최소값
+rgbdp = [0]*n  #최소값
 
 for i in range(n):
     rgbdp[i] = list(map(int,input().split()))
