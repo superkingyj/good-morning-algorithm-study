@@ -1,5 +1,8 @@
 import sys
 
+input = sys.stdin.readline
+
+
 n = int(input())
 rgbdp = []  #최소값
 
