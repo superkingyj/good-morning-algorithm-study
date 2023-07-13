@@ -1,3 +1,5 @@
+import sys
+
 n = int(input())
 rgbdp = []  #최소값
 
