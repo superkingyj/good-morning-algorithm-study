@@ -1,5 +1,5 @@
-N, M = map(int(input().split()))
-tree = list(map(int(input().split())))
+N, M = map(int, input().split())
+tree = list(map(int,input().split()))
 start, end = 1, max(tree)
 
 #start와 end가 같아질 때 까지 반복
