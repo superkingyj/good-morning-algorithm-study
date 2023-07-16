@@ -11,3 +11,20 @@
 14일
 양 한마리... 양 두마리... : https://www.acmicpc.net/problem/11123
 RGB거리: https://www.acmicpc.net/problem/1149
+
+
+
+
+
+19일
+해킹: https://www.acmicpc.net/problem/10282
+카드 구매하기:https://www.acmicpc.net/problem/11052
+
+
+
+
+
+
+21일
+안전 영역: https://www.acmicpc.net/problem/2468
+오큰수 : https://www.acmicpc.net/problem/17298
