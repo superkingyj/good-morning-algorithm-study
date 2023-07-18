@@ -1,3 +1,4 @@
+#그리디 알고리즘
 n = int(input())
 array = list(map(int, input().split()))
 result = [0]*n
