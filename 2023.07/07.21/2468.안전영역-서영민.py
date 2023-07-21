@@ -1,3 +1,6 @@
+import sys
+sys.setrecursionlimit(100000)
+
 N = int(input())
 
 array = []
@@ -14,12 +17,12 @@ def dfs(visited, x, y, target):
     dx= [1,-1,0,0]
     dy= [0,0,1,-1]
     
-    for i in dx:
-        for j in dy:
-            nx = x+i
-            ny = y+j
+    for i in range(4):
+        for j in range(4):
+            nx = x+dx[i]
+            ny = y+dy[i]
             if 0 <= nx < N and 0 <= ny < N:
-                if array[nx][ny] > target and visited[nx][ny] is False:
+                if array[nx][ny] > target and not visited[nx][ny]:
                     dfs(visited, nx, ny, target)
 
 result = 0

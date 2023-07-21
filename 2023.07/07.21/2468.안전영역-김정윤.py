@@ -4,9 +4,9 @@ sys.setrecursionlimit(10**6)
 N = int(sys.stdin.readline())
 
 def dfs(y, x, i):
-    for _ in range(4):
-        ny = y + dy[_]
-        nx = x + dx[_]
+    for m in range(4):
+        ny = y + dy[m]
+        nx = x + dx[m]
         if (ny >= 0 and nx >= 0 and ny < N and nx < N and visited[ny][nx] == 0 and arr[ny][nx] > i):
             visited[ny][nx] = 1
             dfs(ny, nx, i)
