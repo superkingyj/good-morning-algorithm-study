@@ -32,10 +32,11 @@ def dijkstra(start, end):
         if route[node] < dist:
             continue
         
-        for toNode, toDist in edges[node]:
+        #인접한노드
+        for toNode, toDist in edges[node]: 
             d = route[node] + toDist
             
-            if d < route[toNode]:
+            if d < route[toNode]: #현재 노드를 거치는게 짧을 때
                 route[toNode] = d
                 heapq.heappush(q, (d, toNode))
 
