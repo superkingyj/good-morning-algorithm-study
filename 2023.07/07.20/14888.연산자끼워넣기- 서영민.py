@@ -43,40 +43,40 @@ backtrack(numbers, 1, add, sub, mul, div, numbers[0])
 print(max_result)
 print(min_result)
 
-# N = int(input())
+N = int(input())
 
-# numbers = list(map(int, input().split()))
-# operator = list(map(int, input().split()))
+numbers = list(map(int, input().split()))
+operator = list(map(int, input().split()))
 
-# _max = -1e9
-# _min = 1e9
+_max = int(-1e9)
+_min = int(1e9)
 
-# plus, minus, multiply, divide = operator
+plus, minus, multiply, divide = operator
 
 
-# def dfs(length, total, plus, minus, multiply, divide):
-#     global _max, _min
-#     if length == N:
-#         if _max < total:
-#             _max = total
-#         if _min > total:
-#             _min = total
-#         return
+def dfs(length, total, plus, minus, multiply, divide):
+    global _max, _min
+    if length == N:
+        if _max < total:
+            _max = total
+        if _min > total:
+            _min = total
+        return
             
-#     if plus:
-#         dfs(length+1, total+numbers[length], plus-1, minus, multiply, divide)    
+    if plus:
+        dfs(length+1, total+numbers[length], plus-1, minus, multiply, divide)    
     
-#     if minus:
-#         dfs(length+1, total-numbers[length], plus, minus-1, multiply, divide)
+    if minus:
+        dfs(length+1, total-numbers[length], plus, minus-1, multiply, divide)
         
-#     if multiply:
-#         dfs(length+1, total*numbers[length], plus, minus, multiply-1, divide)
+    if multiply:
+        dfs(length+1, total*numbers[length], plus, minus, multiply-1, divide)
         
-#     if divide:
-#         dfs(length+1, int(total/numbers[length]), plus, minus, multiply, divide-1)
+    if divide:
+        dfs(length+1, int(total/numbers[length]), plus, minus, multiply, divide-1)
         
-# dfs(1, numbers[0], plus, minus, multiply, divide)
+dfs(1, numbers[0], plus, minus, multiply, divide)
     
-# print(_max)
-# print(_min)
+print(_max)
+print(_min)
     

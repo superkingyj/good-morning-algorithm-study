@@ -36,6 +36,11 @@ RGB거리: https://www.acmicpc.net/problem/1149
 삼각형으로 자르기 : https://www.acmicpc.net/problem/1198
 숫자판 점프 : https://www.acmicpc.net/problem/2210
 
+27일
+문자열 폭발 : https://www.acmicpc.net/problem/9935
+최단 경로 : https://www.acmicpc.net/problem/1753
+
+
 26일
 동전1 : https://www.acmicpc.net/problem/2293
 게임을 만든 동준이: https://www.acmicpc.net/problem/2847
