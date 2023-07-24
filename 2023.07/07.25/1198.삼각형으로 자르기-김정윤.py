@@ -9,7 +9,7 @@ for i in range(N):
     
 result = 0
 
-# 다음 값보다 크게 하기 위해 i + 1, j + 1부터 시작
+# 이전 좌표보다 크게 하기 위해 i + 1, j + 1부터 시작
 
 for i in range(N):
     for j in range(i + 1, N):
