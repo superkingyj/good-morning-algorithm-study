@@ -1,5 +1,4 @@
 #점화식
-#https://hooongs.tistory.com/151
 n = int(input())
 
 dp = [[0,0,0] for _ in range(n)]
