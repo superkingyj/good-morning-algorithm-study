@@ -52,19 +52,20 @@ RGB거리: https://www.acmicpc.net/problem/1149
 안녕 : https://www.acmicpc.net/problem/1535
 동물원 : https://www.acmicpc.net/problem/1309
 
-
-
-
+31일
+항체 인식 : https://www.acmicpc.net/problem/22352
+걷다보니 신천역 삼 : https://www.acmicpc.net/problem/14650
 
 
 2023.08
 
 
-
+2일
+토마토: https://www.acmicpc.net/problem/7569
+동전1 : https://www.acmicpc.net/problem/2293
 
 
 
 4일
-
 노드 사이의 거리 : https://www.acmicpc.net/problem/1240
 신입사원 : https://www.acmicpc.net/problem/1946
