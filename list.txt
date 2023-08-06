@@ -69,3 +69,10 @@ RGB거리: https://www.acmicpc.net/problem/1149
 4일
 노드 사이의 거리 : https://www.acmicpc.net/problem/1240
 신입사원 : https://www.acmicpc.net/problem/1946
+
+
+
+
+11일
+링 : https://www.acmicpc.net/problem/3036
+국회의원 선거 : https://www.acmicpc.net/problem/1417
