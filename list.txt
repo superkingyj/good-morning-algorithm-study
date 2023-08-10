@@ -87,3 +87,9 @@ N과 M(9): https://www.acmicpc.net/problem/15663
 11일
 링 : https://www.acmicpc.net/problem/3036
 국회의원 선거 : https://www.acmicpc.net/problem/1417
+
+
+
+18일
+트리 https://www.acmicpc.net/problem/1068
+제곱수의 합 https://www.acmicpc.net/problem/1699
