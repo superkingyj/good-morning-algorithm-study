@@ -79,14 +79,33 @@ RGB거리: https://www.acmicpc.net/problem/1149
 점프 : https://www.acmicpc.net/problem/1890
 두용액 : https://www.acmicpc.net/problem/2470
 
+8일
+유기농배추 :https://www.acmicpc.net/problem/1012
+예산 : https://www.acmicpc.net/problem/2512
+
 9일
 카드 합체 놀이: https://www.acmicpc.net/problem/15903
 N과 M(9): https://www.acmicpc.net/problem/15663
 
+10일
+특정 거리의 도시 찾기 : https://www.acmicpc.net/problem/18352
+N과 M사이 : https://www.acmicpc.net/problem/15664
 
 11일
 링 : https://www.acmicpc.net/problem/3036
 국회의원 선거 : https://www.acmicpc.net/problem/1417
+
+14일
+
+
+
+15일
+구간 합 구하기 5 : https://www.acmicpc.net/problem/11660
+신기한 소수 찾기 : https://www.acmicpc.net/problem/2023
+
+16일
+주사위: https://www.acmicpc.net/problem/1041
+적록색약: https://www.acmicpc.net/problem/10026
 
 17일
 전구 https://www.acmicpc.net/problem/2550
