@@ -88,7 +88,9 @@ N과 M(9): https://www.acmicpc.net/problem/15663
 링 : https://www.acmicpc.net/problem/3036
 국회의원 선거 : https://www.acmicpc.net/problem/1417
 
-
+17일
+전구 https://www.acmicpc.net/problem/2550
+부등호 https://www.acmicpc.net/problem/2529
 
 18일
 트리 https://www.acmicpc.net/problem/1068
