@@ -36,6 +36,7 @@ print(Lis_length)
 count = Lis_length - 1
 res = [0 for _ in range(Lis_length)]
 
+print(Lis)
 for (idx, value) in reversed(Lis):
     if count == idx:
         res[idx] = value
