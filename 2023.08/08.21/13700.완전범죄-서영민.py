@@ -16,13 +16,13 @@ if K > 0:
 
 def bfs(s):
     q = deque([(s, 0)])
+    visited[s] = 1
     
     result = False
     while q:
         
         current_location, count = q.popleft()
         
-        visited[current_location] = 1
         
         if current_location == D:
             result = count
@@ -31,11 +31,13 @@ def bfs(s):
         front_move = current_location+F
         back_move = current_location-B
         
-        if front_move <= N and front_move not in p_station and not visited[front_move]:
+        if 0 < front_move <= N and not visited[front_move]:
             q.append((front_move, count+1))
+            visited[front_move] = 1
         
-        if back_move > 0 and back_move not in p_station and not visited[back_move]:
+        if 0 < back_move <= N  and not visited[back_move]:
             q.append((back_move, count+1))
+            visited[back_move] = 1
     
     if result:
         print(result)
