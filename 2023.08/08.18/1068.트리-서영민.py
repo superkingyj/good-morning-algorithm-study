@@ -1,5 +1,4 @@
 import sys
-from collections import deque
 
 input = sys.stdin.readline
 
@@ -7,28 +6,22 @@ N = int(input())
 
 tree_list = list(map(int, input().split()))
 
-tree = [[] for _ in range(N+1)]
+delete_node = int(input())
 
-for node in tree_list:
-    tree[node+1].append(node+2)
 
-except_node = int(input())
-
-print(tree)
-
-def bfs():
-    q = deque([tree[0]])
-    count = 0
+def dfs(node):
+    tree_list[node] = -2
     
-    while q:
-        nodes = q.popleft()
-        for node in nodes:
-            if node-1 != except_node:
-                if not tree[node]:
-                    count += 1 
-                else:
-                    q.append(tree[node])
-    
-    print(count)
-    
-bfs()
+    for i in range(N):
+        if node == tree_list[i]:
+            dfs(i)
+
+count = 0
+
+dfs(delete_node)
+      
+for i in range(N):
+    if tree_list[i] != -2 and i not in tree_list:
+        count += 1
+
+print(count)
