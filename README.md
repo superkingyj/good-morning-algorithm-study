@@ -1,5 +1,9 @@
 # 🌅 good-morning-algorithm-study
 
+![](https://velog.velcdn.com/images/superkingyj/post/c3e8bc50-d726-4243-a33d-f751e095c468/image.jpeg)
+
+<br>
+
 - 레벨: **백준 실버 2에서 골드 4까지** 각자 요일을 정하여 백준에서 풀고 싶은 문제 2개 출제
 
 <br>
