@@ -95,14 +95,6 @@ N과 M사이 : https://www.acmicpc.net/problem/15664
 링 : https://www.acmicpc.net/problem/3036
 국회의원 선거 : https://www.acmicpc.net/problem/1417
 
-14일
-
-
-
-15일
-구간 합 구하기 5 : https://www.acmicpc.net/problem/11660
-신기한 소수 찾기 : https://www.acmicpc.net/problem/2023
-
 16일
 주사위: https://www.acmicpc.net/problem/1041
 적록색약: https://www.acmicpc.net/problem/10026
@@ -115,27 +107,42 @@ N과 M사이 : https://www.acmicpc.net/problem/15664
 트리 https://www.acmicpc.net/problem/1068
 제곱수의 합 https://www.acmicpc.net/problem/1699
 
+21일
+나무위 빗물 : https://www.acmicpc.net/problem/17073
+완전 범죄 : https://www.acmicpc.net/problem/13700
 
-
+22일
+구간 합 구하기 5 : https://www.acmicpc.net/problem/11660
+신기한 소수 찾기 : https://www.acmicpc.net/problem/2023
 
 23일
 조짜기: https://www.acmicpc.net/problem/2229
 스택수열: https://www.acmicpc.net/problem/1874
 
+24일
+숨바꼭질 3 : https://www.acmicpc.net/problem/13549
+잃어버린 괄호 : https://www.acmicpc.net/problem/1541
+
 25일
-숨박꼭질 2: https://www.acmicpc.net/problem/12851
-숨박꼭질 4: https://www.acmicpc.net/problem/13913
+숨바꼭질 2: https://www.acmicpc.net/problem/12851
+숨바꼭질 4: https://www.acmicpc.net/problem/13913
 
 26일
 거리의 합: https://www.acmicpc.net/problem/2399
 
 
-
+30일
+격자상의 경로: https://www.acmicpc.net/problem/10164
+후보 추천하기: https://www.acmicpc.net/problem/1713
 
 
 
 
 2023.09
 
+1일
 트리의 부모 찾기: https://www.acmicpc.net/problem/11725
 트리 순회: https://www.acmicpc.net/problem/1991
+
+2일
+CD https://www.acmicpc.net/problem/4158
