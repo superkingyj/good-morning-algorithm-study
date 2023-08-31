@@ -146,3 +146,9 @@ N과 M사이 : https://www.acmicpc.net/problem/15664
 
 2일
 CD https://www.acmicpc.net/problem/4158
+
+
+
+8일
+미로탐색 https://www.acmicpc.net/problem/2178
+토마토 https://www.acmicpc.net/problem/7576
