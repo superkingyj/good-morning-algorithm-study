@@ -147,7 +147,9 @@ N과 M사이 : https://www.acmicpc.net/problem/15664
 2일
 CD https://www.acmicpc.net/problem/4158
 
-
+6일
+리모콘: https://www.acmicpc.net/problem/1107
+배열돌리기1: https://www.acmicpc.net/problem/16926
 
 8일
 미로탐색 https://www.acmicpc.net/problem/2178
