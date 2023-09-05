@@ -1,4 +1,3 @@
-#https://alpyrithm.tistory.com/232
 n, m, k = map(int, input().split())
 dp = [[0] * m for _ in range(n)]
 
