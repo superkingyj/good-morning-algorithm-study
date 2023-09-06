@@ -28,7 +28,7 @@ if __name__ == "__main__":
         tree[root] = [left, right]
 
     preorder('A')
-    print()
-    inorder('A')
-    print()
-    postorder('A')
+    # print()
+    # inorder('A')
+    # print()
+    # postorder('A')
