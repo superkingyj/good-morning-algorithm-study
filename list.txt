@@ -130,6 +130,13 @@ N과 M사이 : https://www.acmicpc.net/problem/15664
 26일
 거리의 합: https://www.acmicpc.net/problem/2399
 
+28일
+시간 관리 : https://www.acmicpc.net/problem/1263
+별자리 만들기 : https://www.acmicpc.net/problem/4386
+
+29일
+DFS와 BFS https://www.acmicpc.net/problem/1260
+기타레슨 https://www.acmicpc.net/problem/2343
 
 30일
 격자상의 경로: https://www.acmicpc.net/problem/10164
@@ -147,10 +154,21 @@ N과 M사이 : https://www.acmicpc.net/problem/15664
 2일
 CD https://www.acmicpc.net/problem/4158
 
+4일
+전구 https://www.acmicpc.net/problem/2550
+부등호 https://www.acmicpc.net/problem/2529
+
 6일
 리모콘: https://www.acmicpc.net/problem/1107
 배열돌리기1: https://www.acmicpc.net/problem/16926
 
+7일
+감소하는 수: https://www.acmicpc.net/problem/1038
+링크와 스타트 : https://www.acmicpc.net/problem/15661
+
 8일
 미로탐색 https://www.acmicpc.net/problem/2178
 토마토 https://www.acmicpc.net/problem/7576
+
+9일
+내 뒤에 나와 다른 수 https://www.acmicpc.net/problem/24523
