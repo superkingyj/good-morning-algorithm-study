@@ -172,3 +172,9 @@ CD https://www.acmicpc.net/problem/4158
 
 9일
 내 뒤에 나와 다른 수 https://www.acmicpc.net/problem/24523
+
+
+
+15일
+최대공약수 https://www.acmicpc.net/problem/2824
+A와B https://www.acmicpc.net/problem/12904
