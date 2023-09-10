@@ -178,3 +178,6 @@ CD https://www.acmicpc.net/problem/4158
 15일
 최대공약수 https://www.acmicpc.net/problem/2824
 A와B https://www.acmicpc.net/problem/12904
+
+16일
+스위치 켜고 끄기 https://www.acmicpc.net/problem/1244
