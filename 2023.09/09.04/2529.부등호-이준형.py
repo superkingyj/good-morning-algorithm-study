@@ -1,10 +1,10 @@
 from sys import stdin
 input= stdin.readline
 
-n = int(input())
-signs = input().rstrip().split()
-visited = [0]*10
-res = []
+n = int(input()) # 부등호의 개수
+signs = input().rstrip().split() # 부등호 배열
+visited = [0]*10 # q방문
+res = [] 
 
 def check(x,y,sign):
     return eval(f"{x}{sign}{y}")
@@ -25,3 +25,5 @@ dfs(0,"")
 
 print(res[-1])
 print(res[0])
+
+
