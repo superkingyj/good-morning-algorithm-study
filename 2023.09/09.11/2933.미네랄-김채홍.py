@@ -98,3 +98,4 @@ for i in range(N):
                 break
 for row in cave:
     print(''.join(row))
+    
