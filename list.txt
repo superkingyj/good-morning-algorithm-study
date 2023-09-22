@@ -186,3 +186,7 @@ A와B https://www.acmicpc.net/problem/12904
 22일
 쿼드트리 https://www.acmicpc.net/problem/1992
 곱셈 https://www.acmicpc.net/problem/1629
+
+
+23일
+히든넘버 https://www.acmicpc.net/problem/8595
