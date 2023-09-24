@@ -3,6 +3,7 @@
 import sys
 input = sys.stdin.readline
 n, k = map(int, input().split())
+# 초기 설정
 d = [[0] * (n+1) for _ in range(n+1)]
 
 for i in range(0, n+1) :
