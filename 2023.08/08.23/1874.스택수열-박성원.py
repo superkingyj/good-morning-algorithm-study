@@ -28,7 +28,6 @@ for _ in range(n) :
         flag = 1
         break
 
-
 if flag == 0 :
     for i in answer :
         print(i)
