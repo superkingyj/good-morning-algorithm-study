@@ -17,6 +17,7 @@ for _ in range(m) :
 start_index, end_index = map(int, input().split())
 
 def dijkstra(start, end) :
+    # 우선순위 큐에 넣고 시작
     pq = PriorityQueue()
     pq.put((0, start))
 
