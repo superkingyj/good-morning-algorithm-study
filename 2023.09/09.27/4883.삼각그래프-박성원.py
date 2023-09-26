@@ -1,34 +1,29 @@
 import sys
+input = sys.stdin.readline
 
+K= 1
+while True:
+    N = int(input())
+    if not N:
+        break
+    dp=[]
+    for i in range(N):
+        dp.append(list(map(int,input().split())))
+    ans = 0
 
-def solution(n, graph):
-    dp = [[0] * 3 for _ in range(n)]
+    #두번째 줄
+    dp[1][0] += dp[0][1]
+    dp[1][1] += min(dp[0][1], dp[0][1] + dp[0][2], dp[1][0])
+    dp[1][2] += min(dp[0][1], dp[0][1] + dp[0][2], dp[1][1])
+    #중간
+    for i in range(2,N):
+        dp[i][0] += min(dp[i-1][0], dp[i-1][1])
+        dp[i][1] += min(dp[i-1][0], dp[i-1][1], dp[i-1][2], dp[i][0])
+        dp[i][2] += min(dp[i-1][1], dp[i-1][2], dp[i][1])
 
-    dp[1][0] = graph[1][0] + graph[0][1]
-    dp[1][1] = graph[1][1] + min(dp[1][0], graph[0][1], graph[0][2]+graph[0][1])
-    dp[1][2] = graph[1][2] + min(dp[1][1], graph[0][1], graph[0][1] + graph[0][2])
-
-    for i in range(2, n):
-        for j in range(3):
-            if j == 0:
-                min_value = min(dp[i - 1][j], dp[i - 1][j + 1])
-            elif j == 1:
-                min_value = min(dp[i - 1][j - 1], dp[i - 1][j], dp[i - 1][j + 1], dp[i][j - 1])
-            else:
-                min_value = min(dp[i - 1][j - 1], dp[i - 1][j], dp[i][j - 1])
-
-            dp[i][j] = min_value + graph[i][j]
-
-    print(f'{tc}. {dp[-1][1]}')
-
-
-if __name__ == "__main__":
-
-    tc = 0
-    while True:
-        a = int(input())
-        if a == 0:
-            break
-        b = [list(map(int, sys.stdin.readline().split())) for _ in range(a)]
-        tc += 1
-        solution(a, b)
+    print("%d. %d" %(K, dp[N-1][1]))
+    # for i in range(N):
+    #     print(*dp[i])
+	
+    """추가"""
+    K+=1
