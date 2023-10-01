@@ -173,7 +173,21 @@ CD https://www.acmicpc.net/problem/4158
 9일
 내 뒤에 나와 다른 수 https://www.acmicpc.net/problem/24523
 
+11일
+1034 램프 https://www.acmicpc.net/problem/1034        
+2933 미네랄 https://www.acmicpc.net/problem/2933
 
+12일
+최소비용 https://www.acmicpc.net/problem/1916
+이항계수2 https://www.acmicpc.net/problem/11051
+
+13일
+경비원: https://www.acmicpc.net/problem/2564
+좁은 미술전시관: https://www.acmicpc.net/problem/10476
+
+14일
+달팽이와 쿼리: https://www.acmicpc.net/problem/25294
+N-QUEEN: https://www.acmicpc.net/problem/9663
 
 15일
 최대공약수 https://www.acmicpc.net/problem/2824
@@ -182,20 +196,47 @@ A와B https://www.acmicpc.net/problem/12904
 16일
 스위치 켜고 끄기 https://www.acmicpc.net/problem/1244
 
+18일
+다이나믹이 뭐에요? 14494 https://www.acmicpc.net/problem/14494
+회사에 있는사람 7785 https://www.acmicpc.net/problem/7785
+
+19일
+스타트링크 : https://www.acmicpc.net/problem/5014
+섬의 개수 : https://www.acmicpc.net/problem/4963
+
+20일
+봄버맨: https://www.acmicpc.net/problem/16918
+어드벤처 게임: https://www.acmicpc.net/problem/2310
+
+21일
+뱀 : https://www.acmicpc.net/problem/3190
+촌수계산 : https://www.acmicpc.net/problem/2644
 
 22일
 쿼드트리 https://www.acmicpc.net/problem/1992
 곱셈 https://www.acmicpc.net/problem/1629
 
-
 23일
 히든넘버 https://www.acmicpc.net/problem/8595
 
+25일
+25214 크림파스타 : https://www.acmicpc.net/problem/25214
+28353 고양이 카페 : https://www.acmicpc.net/problem/28353
+
+26일
+X
+
+27일
+삼각 그래프: https://www.acmicpc.net/problem/4883
+1,2,3 더하기 3: https://www.acmicpc.net/problem/15988
+
+28일
+미로만들기 : https://www.acmicpc.net/problem/2665
+물병 : https://www.acmicpc.net/problem/1052
 
 29일
 알고리즘 수업 - 너비 우선 탐색 1 https://www.acmicpc.net/problem/24444
 알고리즘 수업 - 너비 우선 탐색 2 https://www.acmicpc.net/problem/24445
-
 
 30일
 행운의 바퀴 https://www.acmicpc.net/problem/2840
@@ -203,6 +244,9 @@ A와B https://www.acmicpc.net/problem/12904
 
 2023.10
 
+4일
+두 수의 합: https://www.acmicpc.net/problem/3273
+주유소: https://www.acmicpc.net/problem/13305
 
 6일
 알고리즘 수업 - 깊이 우선 탐색 1 https://www.acmicpc.net/problem/24479
