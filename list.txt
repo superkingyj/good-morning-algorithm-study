@@ -199,3 +199,11 @@ A와B https://www.acmicpc.net/problem/12904
 
 30일
 행운의 바퀴 https://www.acmicpc.net/problem/2840
+
+
+2023.10
+
+
+6일
+알고리즘 수업 - 깊이 우선 탐색 1 https://www.acmicpc.net/problem/24479
+알고리즘 수업 - 깊이 우선 탐색 2 https://www.acmicpc.net/problem/24480
