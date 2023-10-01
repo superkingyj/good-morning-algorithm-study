@@ -245,8 +245,8 @@ X
 2023.10
 
 4일
-두 수의 합: https://www.acmicpc.net/problem/3273
-주유소: https://www.acmicpc.net/problem/13305
+젇대값 힙: https://www.acmicpc.net/problem/11286
+뱀과 사다리게임: https://www.acmicpc.net/problem/16928
 
 6일
 알고리즘 수업 - 깊이 우선 탐색 1 https://www.acmicpc.net/problem/24479
