@@ -251,3 +251,12 @@ X
 6일
 알고리즘 수업 - 깊이 우선 탐색 1 https://www.acmicpc.net/problem/24479
 알고리즘 수업 - 깊이 우선 탐색 2 https://www.acmicpc.net/problem/24480
+
+
+
+
+
+
+13일
+카드 구매하기2 : https://www.acmicpc.net/problem/16194
+222-풀링 : https://www.acmicpc.net/problem/17829
