@@ -22,8 +22,8 @@ min_res = sys.maxsize
 res_cnt = 1
 
 for i in range(H):
-    b = bisect_left(bot, i)
-    t = bisect_left(top, (H+1)-i)
+    b = bisect_left(bot, i+1)
+    t = bisect_left(top, H-i)
     cnt = N - (b+t)
     if min_res > cnt:
         min_res = cnt
